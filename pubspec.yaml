@@ -1,7 +1,7 @@
 name: iyzico
 description: This package provides some Iyzico requests these are payment, threed payment, bin etc.
 version: 2.0.0+4
-repository: https://github.com/yusufgngor/iyzico_dart
+repository: https://github.com/aberatadgzl/iyzico
 # homepage: https://www.example.com
 
 environment:
