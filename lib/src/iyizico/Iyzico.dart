@@ -148,7 +148,7 @@ class Iyzico {
     String? paymentChannel,
     String? basketId,
     String? paymentGroup,
-    required PaymentCard paymentCard,
+    PaymentCard? paymentCard,
     required Buyer buyer,
     required Address shippingAddress,
     required Address billingAddress,
